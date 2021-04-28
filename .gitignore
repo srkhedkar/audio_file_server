@@ -1,0 +1,7 @@
+*.pyc  
+*~  
+__pycache__  
+venv_audio_server  
+db.sqlite3  
+/static  
+.DS_Store  
